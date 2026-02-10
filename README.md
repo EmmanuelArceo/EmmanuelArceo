@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on ?????.
 - 📫 How to reach me [...](https://www.facebook.com/louise.arceo.56).
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: im a gamer.
+- ⚡ Fun fact: im Ascendant 2 in VALO.
 
