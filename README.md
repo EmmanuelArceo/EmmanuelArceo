@@ -61,14 +61,14 @@ I enjoy building simple and functional web applications and continuously improvi
 ---
 
 ## 📊 GitHub Stats
-![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelArceo&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📫 Contact Me
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: your-linkedin-link  
-- 🌐 Portfolio: your-website-link  
+- 📧 Email: EmmanuelLouiseArceo@gmail.com 
+- 💼 LinkedIn: N/A  
+- 🌐 Portfolio: N/A  
 
 ---
 
