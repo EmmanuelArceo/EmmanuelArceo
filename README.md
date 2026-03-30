@@ -60,11 +60,6 @@ I enjoy building simple and functional web applications and continuously improvi
 
 ---
 
-## 📊 GitHub Stats
-![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelArceo&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Contact Me
 - 📧 Email: EmmanuelLouiseArceo@gmail.com 
 - 💼 LinkedIn: N/A  
