@@ -62,8 +62,7 @@ I enjoy building simple and functional web applications and continuously improvi
 
 ## 📫 Contact Me
 - 📧 Email: EmmanuelLouiseArceo@gmail.com 
-- 💼 LinkedIn: N/A  
-- 🌐 Portfolio: N/A  
+
 
 ---
 
