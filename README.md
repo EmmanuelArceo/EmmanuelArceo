@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Emmanuel Louise V. Arceo
 
-🎓 BSIT Student (2022 - 2026)  
+🎓 BSIT Graduate (2022 - 2026)  
 🏫 National College of Science and Technology (NCST)  
-💻 Aspiring Web Developer (PHP)
+💻 Aspiring Web Developer (PHP) Currently Learning (Laravel)
 
 ---
 
