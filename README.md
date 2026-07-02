@@ -19,9 +19,8 @@ BSIT graduate transitioning from web development to **data analysis**. Strong fo
 
 **Data & Analytics**
 - SQL (MySQL, complex queries, joins, aggregations)
-- Python (Pandas, NumPy)
 - Microsoft Excel (PivotTables, XLOOKUP, data cleaning, Power Query)
-- Power BI / Tableau
+- Power BI
 
 **Programming & Databases**
 - PHP (CRUD, database logic)
