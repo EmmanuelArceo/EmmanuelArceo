@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Emmanuel Louise V. Arceo
 
-🎓 BSIT Graduate (2022 – 2026) | 🏫 National College of Science and Technology (NCST) | 📊 Aspiring Data Analyst
+🎓 BSIT Graduate (2022 – 2026) | 🏫 National College of Science and Technology (NCST) | 📊 Aspiring Data Analyst / Cyber Security Analyst
 
 ---
 
