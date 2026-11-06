@@ -1,70 +1,71 @@
-# 👋 Hi, I'm Emmanuel Louise V. Arceo
+# Hi, I'm Emmanuel Arceo 👋
 
-🎓 BSIT Graduate (2022 – 2026) | 🏫 National College of Science and Technology (NCST) | 📊 Aspiring Data Analyst
+**BSIT Graduate | Junior Software Developer | Aspiring Data Analyst**
 
----
+I build web applications and work with data. My software projects have involved PHP, JavaScript, Node.js, Express, MySQL, and REST APIs. I also use SQL, Excel, and Power BI to explore datasets, build dashboards, and communicate findings.
 
-## 🌐 About Me
+I enjoy moving between both sides of technology: creating useful applications and turning data into clear, practical insights.
 
-BSIT graduate transitioning from web development to **data analysis**. Strong foundation in database design, SQL querying, and structured problem-solving. Passionate about transforming raw data into actionable insights and building clear, data-driven narratives.
+## What I Do
 
-- 🔭 Currently working on: Data analysis projects using real-world datasets
-- 🌱 Currently learning: Python (Pandas, NumPy), SQL analytics, Power BI, Excel advanced functions
-- 🎯 Goal: Become a professional Data Analyst
-- ⚡ Interested in: Data visualization, business intelligence, predictive analytics
+### Software Development
+- Build backend features and web applications using PHP, JavaScript, Node.js, and Express.
+- Work with MySQL databases, SQL queries, CRUD operations, and database design.
+- Create and connect REST APIs.
+- Develop responsive interfaces with HTML, CSS, Bootstrap, and JavaScript.
+- Use Git and GitHub to manage and share project work.
 
----
+### Data Analysis
+- Clean, organize, and analyze data using SQL and Microsoft Excel.
+- Use Excel features such as PivotTables, XLOOKUP, and Power Query.
+- Build Power BI dashboards and visualizations.
+- Explore trends and summarize findings in a clear, useful way.
 
-## 🛠️ Tech Stack
+## Featured Projects
 
-**Data & Analytics**
-- SQL (MySQL, complex queries, joins, aggregations)
-- Microsoft Excel (PivotTables, XLOOKUP, data cleaning, Power Query)
-- Power BI
+### Online Attendance Tracking System
+A web-based attendance system created for DLSU-D TESDA. The project includes attendance workflows such as time-in and time-out, user login, reporting, and password reset.
 
-**Programming & Databases**
-- PHP (CRUD, database logic)
-- MySQL (schema design, query optimization)
+**Tools:** PHP, MySQL, Composer  
+[View project on GitHub](https://github.com/EmmanuelArceo/DTAC_OAT)
 
-**Tools**
-- Git & GitHub | VS Code | Jupyter Notebook | XAMPP
+### PetBuddy — Online Pet Services Platform
+A full-stack capstone project for booking pet grooming, veterinary, and care services. It includes user and provider accounts, booking flows, email notifications, and online payment integration.
 
----
+**Tools:** PHP, MySQL, JavaScript, PayMongo API, Agora  
+[View project on GitHub](https://github.com/EmmanuelArceo)
 
-## 📊 Data Skills
+### Smartphone Hardware-to-Price Value Analysis
+An analysis of smartphone specifications and launch prices, exploring value-for-money patterns across models released from 2014 to 2025.
 
-- **Data Cleaning & Preparation** — Handling missing values, formatting, standardization
-- **SQL Querying** — SELECT, JOIN, GROUP BY, subqueries, CTEs
-- **Data Visualization** — Charts and dashboards for clear communication
-- **Basic Statistical Analysis** — Descriptive statistics, trend identification
-- **Reporting & Insight Generation** — Summarizing data for business decisions
+**Tools:** SQL, Excel, Power BI  
+[View project on GitHub](https://github.com/EmmanuelArceo/Smartphone-Hardware-to-Price-Value-Analysis)
 
----
+### Chocolate Sales Analysis
+An exploration of sales data across multiple countries and products, using queries and visualizations to examine sales performance.
 
-## 📂 Projects
+**Tools:** SQL, Excel, Power BI  
+[View project on GitHub](https://github.com/EmmanuelArceo/Chocolate-Sales-Analysis)
 
-- **Student Management System** (PHP/MySQL)
-  - Designed relational schemas; wrote SQL queries for enrollment trends & performance metrics
+## Technical Skills
 
-- **Login & Registration System** (PHP/MySQL)
-  - Built authentication; analyzed user login patterns for optimization
+**Programming:** PHP, JavaScript, SQL  
+**Backend:** Node.js, Express, REST APIs  
+**Web:** HTML5, CSS3, Bootstrap  
+**Databases:** MySQL, Microsoft SQL Server  
+**Data & Reporting:** Microsoft Excel, Power Query, Power BI  
+**Tools:** Git, GitHub, VS Code, Postman
 
-- **Simple CRUD Application** (PHP/MySQL)
-  - Implemented data validation, error handling, record management
+**Currently learning:** Laravel and deeper software engineering practices.
 
-- **Sales/Expense Dashboard** *(in progress)* (Excel / Power BI)
-  - Cleaning datasets; building interactive dashboards to visualize trends
+## Education
 
-👉 *Currently building more data-focused projects to strengthen my analytical portfolio*
+**Bachelor of Science in Information Technology**  
+National College of Science and Technology (NCST)  
+2022–2026
 
----
+## Connect With Me
 
-## 📫 Contact Me
-
-- 📧 Email: EmmanuelLouiseArceo@gmail.com
-
----
-
-## 💡 Motto
-
-"Start simple, build consistently."
+- [LinkedIn](https://www.linkedin.com/in/emmanuel-louise-arceo-b86b6531b)
+- [GitHub](https://github.com/EmmanuelArceo)
+- Email: EmmanuelLouiseArceo@gmail.com****
